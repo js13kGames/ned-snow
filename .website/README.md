@@ -1,4 +1,8 @@
 ---
+genres:
+  - adventure
+  - stealth
+  - horror
 post: https://dev.to/juankz/ned-snow-a-webvr-game-under-13kb-5d75
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
